@@ -1,4 +1,4 @@
-# HYDRA Mind
+# HYDRA 
 
 This repository records my reading and reproduction process for the HYDRA paper on time-series anomaly detection.
 
